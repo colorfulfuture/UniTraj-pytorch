@@ -158,3 +158,9 @@ python main.py \
     --dataset_name soccer \
     --evaluate
 ```
+
+## Acknowledgment
+The README file format is heavily based on the repos of my colleagues [Huan Wang](https://github.com/MingSun-Tse), [Xu Ma](https://github.com/ma-xu), [Yizhou Wang](https://github.com/wyzjack), and [Yitian Zhang](https://github.com/BeSpontaneous). Great thanks to them!
+
+## License
+UniTraj is under the [Apache License 2.0](https://https://github.com/colorfulfuture/UniTraj/LICENSE)
