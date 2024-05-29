@@ -6,7 +6,7 @@
     <a><img src="images/neu.png"  height="80px" ></a>
 </div>
 
-[arXiv]() | Primary contact: [Yi Xu](xu.yi@northeastern.edu)
+[arXiv](https://arxiv.org/abs/2405.17680) | Primary contact: [Yi Xu](xu.yi@northeastern.edu)
 
 <div align="center">
   <img src="images/encoder.png" width="1000px" height="200px">
@@ -16,6 +16,12 @@ Detailed architecture of the encoding process, which consists of two main compon
 
 ## BibTeX
 ```
+@article{xu2024deciphering,
+      title={Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent}, 
+      author={Yi Xu and Yun Fu},
+      journal={arXiv preprint arXiv:2405.17680},
+      year={2024}
+}
 ```
 
 ## Datasets
@@ -163,4 +169,4 @@ python main.py \
 The README file format is heavily based on the repos of my colleagues [Huan Wang](https://github.com/MingSun-Tse), [Xu Ma](https://github.com/ma-xu), [Yizhou Wang](https://github.com/wyzjack), and [Yitian Zhang](https://github.com/BeSpontaneous). Great thanks to them!
 
 ## License
-UniTraj is under the [Apache License 2.0](https://https://github.com/colorfulfuture/UniTraj/LICENSE)
+UniTraj is under the [Apache License 2.0](https://github.com/colorfulfuture/UniTraj-pytorch/blob/main/LICENSE.txt)
