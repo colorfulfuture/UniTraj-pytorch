@@ -16,11 +16,13 @@ Detailed architecture of the encoding process, which consists of two main compon
 
 ## BibTeX
 ```
-@article{xu2024deciphering,
-      title={Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent}, 
-      author={Yi Xu and Yun Fu},
-      journal={arXiv preprint arXiv:2405.17680},
-      year={2024}
+@inproceedings{
+    xu2025sportstraj,
+    title={Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports},
+    author={Yi Xu and Yun Fu},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=9aTZf71uiD}
 }
 ```
 
