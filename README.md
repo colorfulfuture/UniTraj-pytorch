@@ -1,4 +1,4 @@
-# Deciphering Movement: Unified Trajectory Generation Model for Multi-Agent
+# Sports-Traj: A Unified Trajectory Generation Model for Multi-Agent Movement in Sports
 
 
 <div align="left">
