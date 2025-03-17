@@ -29,9 +29,11 @@ Detailed architecture of the encoding process, which consists of two main compon
 ## Datasets
 The raw Basketball dataset is from [Stats Perform](https://www.statsperform.com/artificial-intelligence-in-sport/), you can download from thie [repo](https://github.com/ezhan94/calibratable-style-consistency?tab=readme-ov-file).
 
-The raw Football dataset is from [Next Gen Stats](https://nextgenstats.nfl.com/), as in [github](https://github.com/nfl-football-ops/Big-Data-Bowl), please reach out to them for complete tracking files.
+The raw Football dataset is from [Next Gen Stats](https://nextgenstats.nfl.com/), as in [github](https://github.com/nfl-football-ops/Big-Data-Bowl).
 
 The raw Soccer dataset is from [SoccerTrack](https://github.com/AtomScott/SportsLabKit) of the top-view scenarios.
+
+We provide both raw and pre-processed three datasets in: [Google Drive](https://drive.google.com/drive/folders/1xDL6ymd9PFx4ZP7iyn3QP7vk24Tb2uHm?usp=sharing)
 
 Put downloaded datasets anywhere such as:
 ```
@@ -100,7 +102,7 @@ pip install tensorboardX
 
 ## Checkpoints
 You can download our trained checkpoints and logs from:
-[Google Drive](https://drive.google.com/drive/folders/1qA5f8GgiIKLFSjuxgIUoNO1fQxe7J5el?usp=drive_link).
+[Google Drive](https://drive.google.com/drive/folders/1xDL6ymd9PFx4ZP7iyn3QP7vk24Tb2uHm?usp=sharing).
 
 The structure looks like:
 ```
